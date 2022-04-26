@@ -401,7 +401,7 @@
         <div class="section-title" data-aos="fade-right" data-aos-offset="90">
             <h1 class="bold colored2 has-line-white">
                 <img class="img-fluid path" src="img/path1.png">
-                TESTIMONTIALS
+                TESTIMONIALS
             </h1>
             <p class=""> Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium <br />
                 doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <br /> inventore veritatis et
@@ -549,7 +549,7 @@
                     </div>
                     <div class="form-group relative">
                         <textarea class="form-control" rows="3" placeholder="Message (required)"></textarea>
-                        <button type="submit" class="resetbtn"> <i class="submit-icon fa fa-paper-plane"></i>
+                        <button type="submit" class="reset-btn"> <i class="submit-icon fa fa-paper-plane"></i>
                         </button>
                     </div>
                 </form>
