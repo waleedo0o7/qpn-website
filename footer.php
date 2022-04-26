@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <h4 class="title"> Quick Links </h4>
-                    <ul class="resetul links">
+                    <ul class="reset-ul links">
                         <li><a href="#"> Home </a></li>
                         <li><a href="#"> Solutions </a></li>
                         <li><a href="#"> About Us </a></li>
@@ -18,7 +18,7 @@
                 </div><!-- col-md-4 -->
                 <div class="col-md-4">
                     <h4 class="title"> Contact </h4>
-                    <ul class="resetul contact">
+                    <ul class="reset-ul contact">
                         <li><a href="#"> <i class="fa fa-phone"></i> 000-000-0000 </a></li>
                         <li><a href="#"> <i class="fa fa-envelope"></i> info@email.com </a></li>
                         <li><a href="#"> <i class="fa fa-map-marker-alt"></i> New York, US </a></li>
@@ -27,7 +27,7 @@
                 <div class="col-md-4">
                     <img class="img-fluid logo mb-4" src="img/qpn-wide.png" alt="">
                     <h4 class="title"> Stay in touch </h4>
-                    <ul class="resetul social">
+                    <ul class="reset-ul social">
                         <li><a href="#"> <i class="fab fa-facebook-f"></i> </a></li>
                         <li><a href="#"> <i class="fab fa-instagram"></i> </a></li>
                         <li><a href="#"> <i class="fab fa-linkedin-in"></i> </a></li>
@@ -62,7 +62,7 @@
 
     <script>
 
-        $('.testmonials-slick').slick({
+        $('.testimonials-slick').slick({
             arrows: false,
             dots: true,
             infinite: true,

@@ -260,7 +260,7 @@
         </div><!-- container -->
     </div><!-- our-services-wrapper -->
 
-    <div class="testmonials">
+    <div class="testimonials">
         <div class="container">
             <div class="section-title" data-aos="fade-right" data-aos-offset="90">
                 <h1 class="bold colored2 has-line-white">
@@ -273,12 +273,12 @@
             </div><!-- section-title -->
         </div><!-- container -->
 
-        <div class="testmonials-slick" data-aos="fade-right" data-aos-offset="90">
+        <div class="testimonials-slick" data-aos="fade-right" data-aos-offset="90">
             <div class="item">
-                <div class="one-testmonial-wrapper">
+                <div class="one-testimonials-wrapper">
                     <img class="img-fluid image" src="img/user01.png" alt="">
                     <div class="arrow"></div>
-                    <div class="testmonial-data">
+                    <div class="testimonials-data">
                         <h3 class="name"> Chris Morales </h3>
                         <p class="title"> GoodAgency, CEO </p>
                         <p class="comment"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -290,17 +290,17 @@
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
                         </div>
-                    </div><!-- testmonial-data -->
-                </div><!-- one-testmonial-wrapper -->
+                    </div><!-- testimonials-data -->
+                </div><!-- one-testimonials-wrapper -->
             </div><!-- item -->
-
+ 
 
 
             <div class="item">
-                <div class="one-testmonial-wrapper">
+                <div class="one-testimonials-wrapper">
                     <img class="img-fluid image" src="img/user01.png" alt="">
                     <div class="arrow"></div>
-                    <div class="testmonial-data">
+                    <div class="testimonials-data">
                         <h3 class="name"> Chris Morales </h3>
                         <p class="title"> GoodAgency, CEO </p>
                         <p class="comment"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -312,17 +312,17 @@
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
                         </div>
-                    </div><!-- testmonial-data -->
-                </div><!-- one-testmonial-wrapper -->
+                    </div><!-- testimonials-data -->
+                </div><!-- one-testimonials-wrapper -->
             </div><!-- item -->
-
+ 
 
 
             <div class="item">
-                <div class="one-testmonial-wrapper">
+                <div class="one-testimonials-wrapper">
                     <img class="img-fluid image" src="img/user01.png" alt="">
                     <div class="arrow"></div>
-                    <div class="testmonial-data">
+                    <div class="testimonials-data">
                         <h3 class="name"> Chris Morales </h3>
                         <p class="title"> GoodAgency, CEO </p>
                         <p class="comment"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -334,17 +334,17 @@
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
                         </div>
-                    </div><!-- testmonial-data -->
-                </div><!-- one-testmonial-wrapper -->
+                    </div><!-- testimonials-data -->
+                </div><!-- one-testimonials-wrapper -->
             </div><!-- item -->
-
+ 
 
 
             <div class="item">
-                <div class="one-testmonial-wrapper">
+                <div class="one-testimonials-wrapper">
                     <img class="img-fluid image" src="img/user01.png" alt="">
                     <div class="arrow"></div>
-                    <div class="testmonial-data">
+                    <div class="testimonials-data">
                         <h3 class="name"> Chris Morales </h3>
                         <p class="title"> GoodAgency, CEO </p>
                         <p class="comment"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -356,17 +356,17 @@
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
                         </div>
-                    </div><!-- testmonial-data -->
-                </div><!-- one-testmonial-wrapper -->
+                    </div><!-- testimonials-data -->
+                </div><!-- one-testimonials-wrapper -->
             </div><!-- item -->
-
+ 
 
 
             <div class="item">
-                <div class="one-testmonial-wrapper">
+                <div class="one-testimonials-wrapper">
                     <img class="img-fluid image" src="img/user01.png" alt="">
                     <div class="arrow"></div>
-                    <div class="testmonial-data">
+                    <div class="testimonials-data">
                         <h3 class="name"> Chris Morales </h3>
                         <p class="title"> GoodAgency, CEO </p>
                         <p class="comment"> Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -378,20 +378,16 @@
                             <span class="fa fa-star checked"></span>
                             <span class="fa fa-star checked"></span>
                         </div>
-                    </div><!-- testmonial-data -->
-                </div><!-- one-testmonial-wrapper -->
+                    </div><!-- testimonials-data -->
+                </div><!-- one-testimonials-wrapper -->
             </div><!-- item -->
-
-
-
-
-
+ 
 
 
 
         </div>
 
-    </div><!-- testmonials -->
+    </div><!-- testimonials -->
 
     <div id="contact-us" class="contact-us-wrapper">
         <div class="container">

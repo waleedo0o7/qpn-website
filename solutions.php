@@ -90,13 +90,13 @@
     <div class="trusted-by-wrapper mb-5" data-aos="fade-up" data-aos-offset="90">
         <div class="container">
             <h4> Trusted By <i class="fa fa-arrow-right" aria-hidden="true"></i> </h4>
-            <ul class="resetul">
+            <ul class="reset-ul">
                 <li> <img class="img-fluid" src="img/logos/logo01.png" alt=""> </li>
                 <li> <img class="img-fluid" src="img/logos/logo02.png" alt=""> </li>
                 <li> <img class="img-fluid" src="img/logos/logo03.png" alt=""> </li>
                 <li> <img class="img-fluid" src="img/logos/logo04.png" alt=""> </li>
                 <li> <img class="img-fluid" src="img/logos/logo05.png" alt=""> </li>
-            </ul> <!-- resetul -->
+            </ul> <!-- reset-ul -->
         </div><!-- container -->
     </div><!-- trusted-by-wrapper -->
 

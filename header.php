@@ -50,7 +50,7 @@
     </div> <!-- loading-wrapper -->
 
     <div class="left-menu-wrapper">
-        <ul class="resetul menu-links">
+        <ul class="reset-ul menu-links">
             <li class="menu-item"><a class="menu-link active" href="home.php"> Home </a></li>
             <li class="menu-item"><a class="menu-link" href="solutions.php"> Solutions </a></li>
             <li class="menu-item"><a class="menu-link" href="about-us.php"> About Us </a></li>
@@ -70,7 +70,7 @@
             </div><!-- logo -->
 
             <div class="menu-wrapper">
-                <ul class="resetul menu-links">
+                <ul class="reset-ul menu-links">
                     <li class="menu-item"><a class="menu-link active" href="home.php"> Home </a></li>
                     <li class="menu-item"><a class="menu-link" href="solutions.php"> Solutions </a></li>
                     <li class="menu-item"><a class="menu-link" href="about-us.php"> About Us </a></li>
@@ -80,7 +80,7 @@
                 </ul>
                 <div onclick="toggleMenu()" class="mobile-icon">
                     <!-- <i class="fa fa-bars"></i> -->
-                    <img class="img-fluid" src="img/3-barss.png" alt="">
+                    <img class="img-fluid" src="img/3-bars.png" alt="">
                 </div><!-- mobile-icon -->
             </div><!-- menu-wrapper -->
 
