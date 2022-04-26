@@ -28,7 +28,7 @@
 
                 <div class="col-md-6">
                     <div class="image">
-                        <img class="img-fluid heart-effect" src="img/about-us2.png" alt="">
+                        <img class="img-fluid heart-effect" src="img/about-us-5.png" alt="">
                     </div><!-- image -->
                 </div>
             </div><!-- row -->
