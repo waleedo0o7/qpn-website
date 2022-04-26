@@ -31,7 +31,7 @@
                             </div><!-- col-md-6 -->
                             <div class="col-md-6">
                                 <div class="image">
-                                    <img class="img-fluid" src="img/overview.png">
+                                    <img class="img-fluid heart-effect" src="img/overview.png">
                                 </div><!-- image -->
                             </div><!-- col-md-6 -->
                         </div><!-- row -->
@@ -56,7 +56,7 @@
                     </div><!-- col-md-6 -->
                     <div class="col-md-6">
                         <div class="image" data-aos="fade-left" data-aos-offset="90">
-                            <img class="img-fluid" src="img/marketing2.png" alt="">
+                            <img class="img-fluid heart-effect" src="img/marketing2.png" alt="">
                         </div><!-- image -->
                     </div><!-- col-md-6 -->
                 </div><!-- row -->
@@ -79,7 +79,7 @@
                 </div><!-- col-md-6 -->
                 <div class="col-md-5">
                     <div class="image" data-aos="fade-left" data-aos-offset="90">
-                        <img class="img-fluid" src="img/ecommerce.png" alt="">
+                        <img class="img-fluid heart-effect" src="img/ecommerce.png" alt="">
                     </div><!-- image -->
                 </div><!-- col-md-6 -->
             </div><!-- row -->
@@ -112,7 +112,7 @@
             </div><!-- col-md-8 -->
             <div class="col-md-4">
                 <div class="title">
-                    <p> Get a Call Back </p>
+                    <p> Contact Us </p>
                 </div>
             </div><!-- col-md-4 -->
         </div><!-- row -->
