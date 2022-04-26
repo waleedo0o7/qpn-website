@@ -152,9 +152,6 @@
         </div><!-- container -->
     </div><!-- why-our-solutions -->
 
-
-
 </div><!-- solutions-page -->
-
 
 <?php include 'footer.php'; ?>

@@ -249,7 +249,7 @@
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
                             <div class="service" data-aos="fade-up" data-aos-offset="90">
-                                <img class="img-fluid" src="img/icons/social-grouth.svg" alt="">
+                                <img class="img-fluid" src="img/icons/social-growth.svg" alt="">
                                 <p class="title bold lead"> SOCIALS GROWTH CAMPAIGN </p>
                                 <p> Perfect for growing your brand’s social community and brand’s community social community and
                                     social </p>
@@ -257,7 +257,7 @@
                         </div><!-- flip-card-front -->
                         <div class="flip-card-back">
                             <div class="service" data-aos="fade-up" data-aos-offset="90">
-                                <img class="img-fluid" src="img/icons/social-grouth-1.svg" alt="">
+                                <img class="img-fluid" src="img/icons/social-growth-1.svg" alt="">
                                 <p class="title bold lead"> SOCIALS GROWTH CAMPAIGN </p>
                                 <p> Perfect for growing your brand’s social community and brand’s community social community and
                                     social </p>
