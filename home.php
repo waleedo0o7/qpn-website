@@ -3,12 +3,12 @@
 <div class="header-wrapper">
     <div class="header-content h-100">
 
-        <div id="homepageSlider" class="carousel carousel-fade slide h-100" data-ride="carousel">
+        <div id="homepage-slider" class="carousel carousel-fade slide h-100" data-ride="carousel">
 
             <ol class="carousel-indicators">
-                <li data-target="#homepageSlider" data-slide-to="0" class="active"></li>
-                <li data-target="#homepageSlider" data-slide-to="1"></li>
-                <li data-target="#homepageSlider" data-slide-to="2"></li>
+                <li data-target="#homepage-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#homepage-slider" data-slide-to="1"></li>
+                <li data-target="#homepage-slider" data-slide-to="2"></li>
 
                 <div class="follow-wrapper">
                     <span> Follow </span>
@@ -90,10 +90,10 @@
             </div> <!-- carousel-inner -->
 
             <div class="arrows-container">
-                <a class="carousel-control-prev" href="#homepageSlider" role="button" data-slide="prev">
+                <a class="carousel-control-prev" href="#homepage-slider" role="button" data-slide="prev">
                     <i class="fa fa-arrow-left" aria-hidden="true"></i>
                 </a>
-                <a class="carousel-control-next" href="#homepageSlider" role="button" data-slide="next">
+                <a class="carousel-control-next" href="#homepage-slider" role="button" data-slide="next">
                     <i class="fa fa-arrow-right" aria-hidden="true"></i>
                 </a>
             </div><!-- arrows-container -->

@@ -1,6 +1,5 @@
 <?php include 'header.php'; ?>
 
-
 <div class="solutions-page about-us-page">
 
     <img class="img-fluid header-bg" src="img/header-bg.png" alt="">
@@ -68,7 +67,7 @@
 
     <img class="after-welcome-section" src="img/after-welcome-section.svg" alt="">
 
-    <div class="softwere-services-wrapper mb-3 mt-5">
+    <div class="software-services-wrapper mb-3 mt-5">
         <div class="container">
             <div class="section-title text-center mb-5" data-aos="fade-up" data-aos-offset="90">
                 <h1 class="bold"> Our Software Services </h1>
@@ -78,7 +77,7 @@
             <div class="row">
                 <div class="col-md-4" data-aos="fade-up" data-aos-offset="90">
                     <div class="item">
-                        <img class="img-fluid" src="img/webdesign.png" alt="">
+                        <img class="img-fluid" src="img/web-design.png" alt="">
                         <h4> web design</h4>
                         <p> That are bound to ensue; and equal blame belongs to those who fail in their That are bound to ensue; and equal blame belongs to those who fail in their</p>
                     </div><!-- item -->

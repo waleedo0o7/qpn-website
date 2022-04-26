@@ -79,7 +79,7 @@
                 </div><!-- col-md-6 -->
                 <div class="col-md-5">
                     <div class="image" data-aos="fade-left" data-aos-offset="90">
-                        <img class="img-fluid heart-effect" src="img/ecommerce.png" alt="">
+                        <img class="img-fluid heart-effect" src="img/e-commerce.png" alt="">
                     </div><!-- image -->
                 </div><!-- col-md-6 -->
             </div><!-- row -->
@@ -138,7 +138,7 @@
                 </div><!-- col-md-4 -->
                 <div class="col-md-4">
                     <div class="data" data-aos="fade-up" data-aos-offset="90">
-                        <h3> <i class="fa fa-circle"></i> Grow Your Bussines </h3>
+                        <h3> <i class="fa fa-circle"></i> grow your Business </h3>
                         <p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy</p>
                     </div><!-- data -->
                 </div><!-- col-md-4 -->

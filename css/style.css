@@ -337,13 +337,13 @@ img.path {
   background: linear-gradient(180deg, #0c2a5f 10%, #751559 100%);
   height: 100vh;
 }
-.header-wrapper #homepageSlider .carousel-inner {
+.header-wrapper #homepage-slider .carousel-inner {
   height: 100%;
 }
-.header-wrapper #homepageSlider .carousel-inner .carousel-item {
+.header-wrapper #homepage-slider .carousel-inner .carousel-item {
   height: 100%;
 }
-.header-wrapper #homepageSlider .arrows-container {
+.header-wrapper #homepage-slider .arrows-container {
   position: absolute;
   bottom: 50px;
   left: calc(50% - 35px);
@@ -352,8 +352,8 @@ img.path {
   justify-content: space-between;
   align-items: center;
 }
-.header-wrapper #homepageSlider .arrows-container .carousel-control-next,
-.header-wrapper #homepageSlider .arrows-container .carousel-control-prev {
+.header-wrapper #homepage-slider .arrows-container .carousel-control-next,
+.header-wrapper #homepage-slider .arrows-container .carousel-control-prev {
   position: relative;
   top: unset;
   bottom: unset;
@@ -364,16 +364,16 @@ img.path {
   color: #d40054;
   font-size: 16px;
 }
-.header-wrapper #homepageSlider .carousel-indicators {
+.header-wrapper #homepage-slider .carousel-indicators {
   width: 1300px;
   margin: 15px auto;
   max-width: 100%;
 }
-.header-wrapper #homepageSlider .carousel-indicators li {
+.header-wrapper #homepage-slider .carousel-indicators li {
   width: 70px;
   cursor: pointer;
 }
-.header-wrapper #homepageSlider .slider-item {
+.header-wrapper #homepage-slider .slider-item {
   display: flex;
   width: 1300px;
   margin: auto;
@@ -381,44 +381,44 @@ img.path {
   align-items: center;
   height: 100%;
 }
-.header-wrapper #homepageSlider .slider-item .slider-bg {
+.header-wrapper #homepage-slider .slider-item .slider-bg {
   position: absolute;
   top: 0;
   left: 0;
 }
-.header-wrapper #homepageSlider .slider-item .details {
+.header-wrapper #homepage-slider .slider-item .details {
   color: #fff;
   width: 50%;
 }
-.header-wrapper #homepageSlider .slider-item .details h1 {
+.header-wrapper #homepage-slider .slider-item .details h1 {
   font-size: 46px;
   animation-delay: 0.5s;
 }
-.header-wrapper #homepageSlider .slider-item .details p {
+.header-wrapper #homepage-slider .slider-item .details p {
   font-size: 18px;
   animation-delay: 0.5s;
 }
-.header-wrapper #homepageSlider .slider-item .details a {
+.header-wrapper #homepage-slider .slider-item .details a {
   animation-delay: 1.3s;
 }
-.header-wrapper #homepageSlider .slider-item .details img.path {
+.header-wrapper #homepage-slider .slider-item .details img.path {
   position: absolute;
   top: -90px;
   left: -90px;
   width: 170px;
 }
-.header-wrapper #homepageSlider .slider-item .image {
+.header-wrapper #homepage-slider .slider-item .image {
   width: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.header-wrapper #homepageSlider .slider-item .image img {
+.header-wrapper #homepage-slider .slider-item .image img {
   height: 480px;
   display: flex;
   animation-delay: 0.3s;
 }
-.header-wrapper #homepageSlider .follow-wrapper {
+.header-wrapper #homepage-slider .follow-wrapper {
   color: #fff;
   border: 1px solid #fff;
   width: fit-content;
@@ -427,17 +427,17 @@ img.path {
   top: -30px;
   left: 0;
 }
-.header-wrapper #homepageSlider .follow-wrapper span {
+.header-wrapper #homepage-slider .follow-wrapper span {
   padding-right: 25px;
 }
-.header-wrapper #homepageSlider .follow-wrapper a {
+.header-wrapper #homepage-slider .follow-wrapper a {
   color: #fff;
 }
-.header-wrapper #homepageSlider .follow-wrapper a:hover {
+.header-wrapper #homepage-slider .follow-wrapper a:hover {
   color: #fff;
   text-decoration: none;
 }
-.header-wrapper #homepageSlider .follow-wrapper a i.fab {
+.header-wrapper #homepage-slider .follow-wrapper a i.fab {
   padding: 0 5px;
 }
 
@@ -978,19 +978,19 @@ img.path {
   font-size: 22px;
   font-weight: 600;
 }
-.about-us-page .softwere-services-wrapper .item {
+.about-us-page .software-services-wrapper .item {
   padding: 30px;
   border-radius: 20px;
   transition: var(--mainTransition);
 }
-.about-us-page .softwere-services-wrapper .item:hover {
+.about-us-page .software-services-wrapper .item:hover {
   background-color: #f3f3f3cc;
 }
-.about-us-page .softwere-services-wrapper .item img {
+.about-us-page .software-services-wrapper .item img {
   width: 60px;
   margin-bottom: 20px;
 }
-.about-us-page .softwere-services-wrapper .item h4 {
+.about-us-page .software-services-wrapper .item h4 {
   text-transform: capitalize;
 }
 .about-us-page .goals .data {
@@ -1061,37 +1061,37 @@ img.path {
   .header-wrapper {
     padding-top: 40px;
   }
-  .header-wrapper #homepageSlider .slider-item {
+  .header-wrapper #homepage-slider .slider-item {
     flex-direction: column-reverse;
     width: unset;
   }
-  .header-wrapper #homepageSlider .slider-item .slider-bg {
+  .header-wrapper #homepage-slider .slider-item .slider-bg {
     display: none;
   }
-  .header-wrapper #homepageSlider .slider-item .details,
-.header-wrapper #homepageSlider .slider-item .image {
+  .header-wrapper #homepage-slider .slider-item .details,
+.header-wrapper #homepage-slider .slider-item .image {
     width: 100%;
   }
-  .header-wrapper #homepageSlider .slider-item .image {
+  .header-wrapper #homepage-slider .slider-item .image {
     justify-content: center;
     align-items: center;
     display: flex;
   }
-  .header-wrapper #homepageSlider .slider-item .image img {
+  .header-wrapper #homepage-slider .slider-item .image img {
     height: auto;
     width: 300px;
   }
-  .header-wrapper #homepageSlider .slider-item .details {
+  .header-wrapper #homepage-slider .slider-item .details {
     text-align: center;
     padding: 0 10px;
   }
-  .header-wrapper #homepageSlider .slider-item .details h1 {
+  .header-wrapper #homepage-slider .slider-item .details h1 {
     font-size: 28px;
   }
-  .header-wrapper #homepageSlider .slider-item .details p {
+  .header-wrapper #homepage-slider .slider-item .details p {
     font-size: 16px;
   }
-  .header-wrapper #homepageSlider .arrows-container {
+  .header-wrapper #homepage-slider .arrows-container {
     bottom: 10px !important;
   }
 

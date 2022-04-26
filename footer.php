@@ -1,6 +1,5 @@
 <div class="footer-wrapper">
 
-
     <div class="container">
         <div class="row">
             <div class="col-md-4">
@@ -50,14 +49,12 @@
 
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js"></script>
 
-
-
 <script>
+
     $('.testimonials-slick').slick({
         autoplay: true,
         arrows: false,
@@ -91,21 +88,12 @@
 
     })
 
-
-
     $(document).ready(function($) {
         $('.count-number').counterUp({
             delay: 10,
             time: 10000
         });
     });
-
-
-
-
-
-
-
 
     let isOpened = false;
 
