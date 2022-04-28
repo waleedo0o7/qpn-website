@@ -2,7 +2,7 @@
 
 <div class="thank-you-page">
     <div class="content">
-        <img class="img-fluid mb-3" src="https://via.placeholder.com/100x100" alt="">
+        <img class="img-fluid mb-3 send" src="img/send.gif" alt="">
         <h2 class="bold"> Thank You For Messaging Us ! </h2>
         <p class="lead"> Your message has been received, we will get back to soon </p>
         <i class="fa fa-times close"></i>

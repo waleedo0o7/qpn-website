@@ -1040,6 +1040,9 @@ img.path {
   cursor: pointer;
   color: #fff;
 }
+.thank-you-page .content .send {
+  width: 180px;
+}
 
 @media all and (max-width: 1024px) {
   .top-menu-wrapper .top-menu {
