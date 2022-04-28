@@ -160,6 +160,16 @@
     AOS.init();
 </script>
 
+
+
+
+<script>
+    $(".close").on("click",function(){
+        $(".thank-you-page").fadeOut();
+    });
+</script>
+
+
 </body>
 
 </html>

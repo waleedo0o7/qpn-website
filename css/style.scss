@@ -1155,6 +1155,46 @@ img.path {
     }
 }
 
+
+
+
+.thank-you-page {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, #0c2a5eed 5%, #d30054ed 95%);
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        position: relative;
+        i.close {
+            position: absolute;
+            top: 0;
+            right: 0;
+            font-size: 25px;
+            border: 1px solid #fff;
+            width: 40px;
+            height: 40px;
+            border-radius: 500px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            color: #fff;
+        }
+    }
+}
+
 @media all and (max-width: 1024px) {
     .top-menu-wrapper .top-menu {
         padding: 20px;
@@ -1340,8 +1380,6 @@ img.path {
 
 }
 
-
-
 @media all and (max-width: 600px) {
 
     .about-us-wrapper .image-wrapper .about-us-3 {
@@ -1368,12 +1406,3 @@ img.path {
 
     }
 }
-
-
-
-
-
-
-
-
-
