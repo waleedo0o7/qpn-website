@@ -1044,7 +1044,7 @@ img.path {
   width: 180px;
 }
 
-.header-wrapper, .welcome-wrapper, .about-us-wrapper, .testimonials, .contact-us-wrapper, .solutions-page, .ecommerce-wrapper, .trusted-by-wrapper, .cta-wrapper, .why-our-solutions,
+.header-wrapper, .about-us-wrapper, .testimonials, .contact-us-wrapper, .solutions-page, .ecommerce-wrapper, .trusted-by-wrapper, .cta-wrapper, .why-our-solutions,
 .solutions-page.about-us-page, .goals, .cta-wrapper, .goals.why-hire {
   overflow-x: hidden;
 }
