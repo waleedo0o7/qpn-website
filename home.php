@@ -38,8 +38,7 @@
                             <a class="btn btn-custom1 animated fadeIn" href="#"> Learn More <i class="fa fa-chevron-right fa-sm"></i> </a>
                         </div><!-- details -->
                         <div class="image">
-                            <!-- <img class="img-fluid animated zoomIn" src="img/slider01.png" alt=""> -->
-                            <img class="img-fluid animated zoomIn" src="img/slider01.gif" alt="">
+                            <img class="img-fluid animated zoomIn" src="img/slider01.png" alt="">
                         </div><!-- image -->
                     </div><!-- slider-item -->
                 </div> <!-- carousel-item -->

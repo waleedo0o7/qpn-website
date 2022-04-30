@@ -1044,6 +1044,15 @@ img.path {
   width: 180px;
 }
 
+.header-wrapper, .welcome-wrapper, .about-us-wrapper, .testimonials, .contact-us-wrapper, .solutions-page, .ecommerce-wrapper, .trusted-by-wrapper, .cta-wrapper, .why-our-solutions,
+.solutions-page.about-us-page, .goals, .cta-wrapper, .goals.why-hire {
+  overflow-x: hidden;
+}
+
+.header-wrapper #homepage-slider .arrows-container {
+  display: none;
+}
+
 @media all and (max-width: 1024px) {
   .top-menu-wrapper .top-menu {
     padding: 20px;
@@ -1224,6 +1233,10 @@ img.path {
   }
   .about-us-wrapper .image-wrapper .circle-wrapper .about-us-4 {
     width: 80px;
+  }
+
+  .about-us-page .welcome-wrapper .mission-and-vision {
+    margin-top: 0;
   }
 }
 

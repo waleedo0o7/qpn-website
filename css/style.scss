@@ -1196,9 +1196,24 @@ img.path {
         .send {
             width: 180px;
         }
-        
+
     }
 }
+
+
+
+.header-wrapper, .welcome-wrapper , .about-us-wrapper , .testimonials , .contact-us-wrapper , .solutions-page , .ecommerce-wrapper , .trusted-by-wrapper , .cta-wrapper , .why-our-solutions ,
+.solutions-page.about-us-page , .goals , .cta-wrapper  , .goals.why-hire
+{
+    overflow-x: hidden;
+}
+
+
+// hide arrows from homepage slider
+.header-wrapper #homepage-slider .arrows-container {
+    display: none;
+}
+
 
 @media all and (max-width: 1024px) {
     .top-menu-wrapper .top-menu {
@@ -1409,5 +1424,9 @@ img.path {
             width: 80px;
         }
 
+    }
+
+    .about-us-page .welcome-wrapper .mission-and-vision {
+        margin-top: 0;
     }
 }
