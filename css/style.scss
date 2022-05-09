@@ -1047,14 +1047,12 @@ img.path {
 
     .image {
         padding: 0 70px 40px 70px;
-    }
-
-    .welcome-wrapper {
-        overflow: visible !important;
-    }
+    }  
 
     .welcome-wrapper {
         padding-top: 30px;
+        overflow: visible !important;
+        background: linear-gradient(180deg, #741559 20%, #d40054 100%);
 
         .mission-and-vision {
             margin-top: -80px;

@@ -920,10 +920,9 @@ img.path {
   padding: 0 70px 40px 70px;
 }
 .about-us-page .welcome-wrapper {
-  overflow: visible !important;
-}
-.about-us-page .welcome-wrapper {
   padding-top: 30px;
+  overflow: visible !important;
+  background: linear-gradient(180deg, #741559 20%, #d40054 100%);
 }
 .about-us-page .welcome-wrapper .mission-and-vision {
   margin-top: -80px;
