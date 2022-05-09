@@ -446,6 +446,7 @@ img.path {
   color: #fff;
   padding-top: 160px;
   margin-top: -1px;
+  overflow: hidden;
 }
 .solutions .data h2 {
   font-size: 38px;
@@ -791,6 +792,7 @@ img.path {
 }
 .solutions-page .welcome-wrapper {
   overflow: visible !important;
+  background: linear-gradient(180deg, #751559 10%, #d40155 90%);
 }
 .solutions-page .header-wrapper {
   padding-top: 150px;
@@ -1034,6 +1036,13 @@ img.path {
   display: none;
 }
 
+.about-us-wrapper {
+  overflow: hidden;
+}
+.about-us-wrapper .section-title img {
+  display: none;
+}
+
 @media all and (max-width: 1024px) {
   .flip-card-back {
     display: none;
@@ -1086,10 +1095,6 @@ img.path {
 
   .solutions .image img {
     transform: none;
-  }
-
-  .about-us-wrapper {
-    overflow: hidden;
   }
 
   .about-us-wrapper .image-wrapper .circle-wrapper {

@@ -483,7 +483,8 @@ img.path {
     background: linear-gradient(180deg, #751559 0%, #d40155 90%);
     color: #fff;
     padding-top: 160px;
-    margin-top: -1px; 
+    margin-top: -1px;
+    overflow: hidden;
 
     .welcome-content {
     }
@@ -899,6 +900,7 @@ img.path {
 
     .welcome-wrapper {
         overflow: visible !important;
+        background: linear-gradient(180deg, #751559 10%, #d40155 90%);
     }
 
 
@@ -1175,6 +1177,15 @@ img.path {
     display: none;
 }
 
+
+.about-us-wrapper {
+    overflow: hidden;
+    .section-title img {
+        display: none;
+    }
+}
+
+
 @media all and (max-width: 1024px) {
     .flip-card-back {
         display: none;
@@ -1230,10 +1241,6 @@ img.path {
 
     .solutions .image img {
         transform: none;
-    }
-
-    .about-us-wrapper {
-        overflow: hidden;
     }
 
     .about-us-wrapper .image-wrapper .circle-wrapper {
@@ -1448,3 +1455,4 @@ img.path {
         }
     }
 }
+
