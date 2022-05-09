@@ -478,12 +478,12 @@ img.path {
     }
 }
 
+
 .welcome-wrapper {
     background: linear-gradient(180deg, #751559 0%, #d40155 90%);
     color: #fff;
     padding-top: 160px;
-    margin-top: -1px;
-    overflow: hidden;
+    margin-top: -1px; 
 
     .welcome-content {
     }
@@ -550,6 +550,9 @@ img.path {
 }
 
 .about-us-wrapper {
+
+
+
     .statistics {
         .item {
             h2.number {
@@ -893,6 +896,12 @@ img.path {
         left: 0;
     }
 
+
+    .welcome-wrapper {
+        overflow: visible !important;
+    }
+
+
     .header-wrapper {
         padding-top: 150px;
         height: auto;
@@ -1038,6 +1047,10 @@ img.path {
 
     .image {
         padding: 0 70px 40px 70px;
+    }
+
+    .welcome-wrapper {
+        overflow: visible !important;
     }
 
     .welcome-wrapper {

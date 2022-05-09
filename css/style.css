@@ -446,7 +446,6 @@ img.path {
   color: #fff;
   padding-top: 160px;
   margin-top: -1px;
-  overflow: hidden;
 }
 .solutions .data h2 {
   font-size: 38px;
@@ -790,6 +789,9 @@ img.path {
   top: 0;
   left: 0;
 }
+.solutions-page .welcome-wrapper {
+  overflow: visible !important;
+}
 .solutions-page .header-wrapper {
   padding-top: 150px;
   height: auto;
@@ -916,6 +918,9 @@ img.path {
 }
 .about-us-page .image {
   padding: 0 70px 40px 70px;
+}
+.about-us-page .welcome-wrapper {
+  overflow: visible !important;
 }
 .about-us-page .welcome-wrapper {
   padding-top: 30px;
