@@ -252,7 +252,7 @@
                                 <img class="img-fluid" src="img/icons/social-growth.svg" alt="">
                                 <p class="title bold lead"> SOCIALS GROWTH CAMPAIGN </p>
                                 <p> Perfect for growing your brand’s social community and brand’s community social community and
-                                    social </p>
+                                social  social social social social social social social social social social </p>
                             </div><!-- service -->
                         </div><!-- flip-card-front -->
                         <div class="flip-card-back">
