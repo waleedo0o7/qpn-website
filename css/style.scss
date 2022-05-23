@@ -226,7 +226,7 @@ img.path {
         width: 50%;
         height: 100%;
         background: var(--mainColor);
-        transition: all 1s ease;
+        transition: width 1s ease;
     }
     .left {
         left: 0;

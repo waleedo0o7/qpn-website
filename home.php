@@ -549,8 +549,7 @@
                     </div>
                     <div class="form-group relative">
                         <textarea class="form-control" rows="3" placeholder="Message (required)"></textarea>
-                        <button type="submit" class="reset-btn"> <i class="submit-icon fa fa-paper-plane"></i>
-                        </button>
+                        <a href="thank-you-page.php" type="submit" class="reset-btn"> <i class="submit-icon fa fa-paper-plane"></i></a>
                     </div>
                 </form>
 
